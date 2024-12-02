@@ -1,0 +1,5 @@
+flask==2.0.1
+pyglet==1.5.21
+numpy==1.21.2
+pyassimp==4.1.4
+esper==1.3 
